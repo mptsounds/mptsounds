@@ -10,8 +10,11 @@
 - 💬 Geek out with me on [Discord](https://discord.com/users/871207784002248756)<br> about HAL drivers, IoT projects, 3D printers, sound design & maker culture!
 
 
+*Due to Academic Integrity policies, my school projects are in Private repos. [Ask me for access](mailto:tongtkimthu@gmail.com)* 😉
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-17` <!-- TODO: automate this -->
+
+*Last manually updated:* `2025-05-17` <!-- TODO: automate this -->
+
 
 <!--
 **mptsounds/mptsounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
