@@ -1,13 +1,14 @@
 ### Hey there 👋
 
-#### An Embedded Software Development Student by day ☀️ and a Maker + Digital Fabrication enthusiast by night 🌛
+#### An Embedded Software Development Student by day ☀️ and a Maker/DIYer by night 🌛
 
-- 📝 Languages: `C` (I 💓 bare metal!), `Verilog`, `VHDL`, `Python`
+- 📝 Languages: `C` ( I 💓 bare metal ), `Verilog`, `VHDL`, `Python`
 - 🧠 MCUs: `STM32`, `nRF52`, `ATmega328P`
 - ⚡ ECAD: `Altium`, `SOLIDWORKS Electrical`, `Multisim`
 - 🦾 MCAD: `Fusion 360`, `SOLIDWORKS`
-- 🌱 Learning about Zephyr RTOS by building an [ergonomic keyboard](https://github.com/mptsounds/zmk-config-devkb);<br>
-- 💬 Geek out with me about bare metal C, CAD, IoT projects, sustainability-conscious designs and low-cost DIY!
+- 🌱 Learning about `Zephyr RTOS` by building an [ergonomic keyboard](https://github.com/mptsounds/zmk-config-devkb)
+- 💬 Geek out with me on [Discord](https://discord.com/users/871207784002248756)<br> about HAL drivers, IoT projects, 3D printers, sound design & maker culture!
+
 
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-17` <!-- TODO: automate this -->
