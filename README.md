@@ -6,14 +6,15 @@
 - 🧠 MCUs: `STM32`, `nRF52`, `ATmega328P`
 - ⚡ ECAD: `Altium`, `SOLIDWORKS Electrical`, `Multisim`
 - 🦾 MCAD: `Fusion 360`, `SOLIDWORKS`
-- 🌱 Learning about `Zephyr RTOS` by building an [ergonomic keyboard](https://github.com/mptsounds/zmk-config-devkb)
-- 💬 Geek out with me on [Discord](https://discord.com/users/871207784002248756)<br> about HAL drivers, IoT projects, 3D printers, sound design & maker culture!
+- 🕹️ Playing with `Zephyr RTOS` & low-powered wireless devices by building an [ergonomic keyboard](https://github.com/mptsounds/zmk-config-devkb)
+- 🌱 Learning about `Embedded Linhux`!
+- 💬 Geek out with me on [Discord](https://discord.com/users/871207784002248756) about: <br>HAL drivers, IoT projects, 3D printers, sound design & maker culture!
 
 
-*Due to Academic Integrity policies, my school projects are in Private repos. [Ask me for access](mailto:tongtkimthu@gmail.com)* 😉
+*Due to Academic Integrity policies, my school projects are in Private repos. For prospective employers & colleagues, [ask me for access](mailto:tongtkimthu@gmail.com)* 😉
 
 
-*Last manually updated:* `2025-05-17` <!-- TODO: automate this -->
+*Last manually updated:* `2025-06-14` <!-- TODO: automate this -->
 
 
 <!--
