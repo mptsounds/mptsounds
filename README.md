@@ -10,8 +10,9 @@
 - 🌱 Learning about `Embedded Linhux`!
 - 💬 Geek out with me on [Discord](https://discord.com/users/871207784002248756) about: <br>HAL drivers, IoT projects, 3D printers, sound design & maker culture!
 
+[Request to view](https://drive.google.com/file/d/1QK_6VcKqZTYqbe6-1A54gt7jRi4_C0Vg/view?usp=sharing) my past engineering projects 👀
 
-*Due to Academic Integrity policies, my school projects are in Private repos. For prospective employers & colleagues, [ask me for access](mailto:tongtkimthu@gmail.com)* 😉
+*Due to Academic Integrity policies, source code for my school projects are in Private repos. For prospective employers & clients, [ask me for access](mailto:tongtkimthu@gmail.com)* 😉
 
 
 *Last manually updated:* `2025-06-14` <!-- TODO: automate this -->
