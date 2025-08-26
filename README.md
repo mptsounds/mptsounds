@@ -9,14 +9,14 @@
 - 🦾 MCAD: `Fusion 360`, `SOLIDWORKS`
 - 🕹️ Playing with `Zephyr RTOS` & low-powered wireless devices by building an [ergonomic keyboard](https://github.com/mptsounds/zmk-config-devkb)
 - 🌱 Planning to deep dive: `Embedded Linux`, `Vim`, `Rust`, `Jules`
-- 💬 Geek out with me on [Discord](https://discord.com/users/871207784002248756) about: <br>HAL drivers, IoT projects, 3D printers, sound design & maker culture!
+- 💬 Geek out with me on [Discord](https://discord.com/users/840625541622792235) about: <br>HAL drivers, IoT projects, 3D printers, sound design & maker culture!
 
 [Request to view](https://drive.google.com/file/d/1QK_6VcKqZTYqbe6-1A54gt7jRi4_C0Vg/view?usp=sharing) my past engineering projects 👀
 
 *Due to Academic Integrity policies, source code for my school projects are in Private repos. For prospective employers & clients, [ask me for access](mailto:tongtkimthu@gmail.com)* 😉
 
 
-*Last manually updated:* `2025-07-07` <!-- TODO: automate this -->
+*Last manually updated:* `2025-08-26` <!-- TODO: automate this -->
 
 
 <!--
